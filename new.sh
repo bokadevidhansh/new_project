@@ -1,5 +1,5 @@
 #! /bin/bash
 
 
-new file has been created
-again edited 2nd tim
+echo "new file has been created"
+echo "again edited 2nd tim"
