@@ -1,4 +1,4 @@
-#! /bin/sh
+#! /bin/bash
 
 
 new file has been created
